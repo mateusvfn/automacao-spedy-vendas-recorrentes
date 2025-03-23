@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignorar arquivos sensíveis
+.env
+*.xlsx
+*.csv
+chromedriver.exe
